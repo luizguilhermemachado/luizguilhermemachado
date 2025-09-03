@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luiz Guilherme
 
-💻 Programming student | 🚀 Future Fullstack Developer  
+💻 Programming student | 🚀 Future Back-End Developer  
 📍 São Gonçalo do Sapucaí - MG, Brazil  
 
 ---
